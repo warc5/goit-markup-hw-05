@@ -107,12 +107,12 @@ img {
 }
 
 
-.menu-nav .item:not(:last-child) {
+.menu-nav .items:not(:last-child) {
     margin-right: 40px;
 }
 
 
-.contact .item:not(:last-child) {
+.contact .items:not(:last-child) {
     margin-right: 40px;
 }
 
@@ -197,11 +197,11 @@ text-align: center;
     margin-right: auto;
 }
 
-.list-adv .item:not(:first-child) {
+.list-adv .items:not(:first-child) {
    margin-left: 24px;
 }
 
-.list-adv .item-a::before {
+.list-adv .items-a::before {
     display: block;
     height: 112px;
     content: '';
@@ -325,7 +325,7 @@ background-color: #404BBF;
 
 
 
-.text-list .item {
+.text-list .items {
     flex-basis: 264px;
 }
 
